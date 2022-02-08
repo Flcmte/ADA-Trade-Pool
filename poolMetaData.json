@@ -2,5 +2,6 @@
 "name": "ADA TRADE POOL",
 "description": "Powered by IT and Traders Experts. Committed to performance with competitive rates. Stack with Ada Trade Pool to get rewards and use it on Cardano network!",
 "ticker": "TRADE",
-"homepage": "https://adatradepool.com"
+"homepage": "https://adatradepool.com",
+"extended": "https://raw.githubusercontent.com/Flcmte/ADA-Trading-Pool/main/extended.json"
 }
