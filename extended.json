@@ -1,0 +1,37 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Flcmte/ADA-Trading-Pool/main/trade_logo.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Flcmte/ADA-Trading-Pool/main/trade_logo.png",
+        "location": "Paris | France",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "adatradepool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "AdaTradePool",
+            "addr": "",
+            "city": "Paris | France",
+            "country": "FR",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operator from Paris, France. Trying to bring trade volume to Cardano. We are happy to be part of the Cardano network and to support the community",
+            "server": "Dedicated server, soft raid and 32Go RAM, with well managed energy. Our equipment currently consists of 1 Block Producer and 2 Relay Nodes. We can guarantee an excellent internet connection. BARE METAL SERVERS ",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "b99b81d78a57c8b467c5b8e976c225c95f283777ea4376a273adfe06",
+        "1": ""
+      },
+         "telegram-admin-handle": {
+        "0": "adatradepool"
+    }
+    }
+   
+}
